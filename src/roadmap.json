@@ -1,0 +1,894 @@
+{
+  "text": "Teamlead Roadmap",
+  "link": null,
+  "style": "bubble",
+  "color": null,
+  "children": [
+    {
+      "text": "Роли и обязанности",
+      "link": null,
+      "style": "bubble",
+      "color": null,
+      "children": [
+        {
+          "text": "People Manager",
+          "link": null,
+          "style": "fork",
+          "color": null,
+          "children": [
+            {
+              "text": "Управление людьми",
+              "link": null,
+              "style": "fork",
+              "color": null,
+              "children": [
+                {
+                  "text": "Найм",
+                  "link": null,
+                  "style": "fork",
+                  "color": null,
+                  "children": [
+                    {
+                      "text": "Профиль кандидата",
+                      "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/resource-manager/profile.md",
+                      "style": "fork",
+                      "color": null,
+                      "children": []
+                    },
+                    {
+                      "text": "Собеседования",
+                      "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/resource-manager/interview.md",
+                      "style": "fork",
+                      "color": null,
+                      "children": []
+                    },
+                    {
+                      "text": "Онбординг",
+                      "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/resource-manager/onboarding.md",
+                      "style": "fork",
+                      "color": null,
+                      "children": []
+                    },
+                    {
+                      "text": "Тестовый период",
+                      "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/resource-manager/test-period.md",
+                      "style": "fork",
+                      "color": null,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "Увольнение",
+                  "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/resource-manager/firing.md",
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                },
+                {
+                  "text": "Мотивация",
+                  "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/resource-manager/motivation.md",
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                },
+                {
+                  "text": "Развитие",
+                  "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/resource-manager/development.md",
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                },
+                {
+                  "text": "Промо",
+                  "link": null,
+                  "style": "fork",
+                  "color": null,
+                  "children": [
+                    {
+                      "text": "Ассессмент",
+                      "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/resource-manager/assessment.md",
+                      "style": "fork",
+                      "color": null,
+                      "children": []
+                    },
+                    {
+                      "text": "Карьерная линейка",
+                      "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/resource-manager/career.md",
+                      "style": "fork",
+                      "color": null,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "Обратная связь",
+                  "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/resource-manager/feedback.md",
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                },
+                {
+                  "text": "One-to-one",
+                  "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/resource-manager/one-to-one.md",
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                },
+                {
+                  "text": "Административная работа",
+                  "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/resource-manager/admin.md",
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                },
+                {
+                  "text": "Делегирование",
+                  "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/resource-manager/delegation.md",
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "Управление командой",
+              "link": null,
+              "style": "fork",
+              "color": null,
+              "children": [
+                {
+                  "text": "Запуск команды",
+                  "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/resource-manager/team-launch.md",
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                },
+                {
+                  "text": "Управление компетенциями",
+                  "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/resource-manager/competency-management.md",
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                },
+                {
+                  "text": "Дизайн команды",
+                  "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/resource-manager/team-design.md",
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                },
+                {
+                  "text": "Организация рабочего пространства",
+                  "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/resource-manager/workspace.md",
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                },
+                {
+                  "text": "Климат в команде",
+                  "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/resource-manager/team-climate.md",
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                },
+                {
+                  "text": "Зрелость команды",
+                  "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/resource-manager/team-maturity.md",
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                },
+                {
+                  "text": "Обеспечение прозрачности",
+                  "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/resource-manager/transparency.md",
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "Развитие технического бренда",
+              "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/resource-manager/techpr.md",
+              "style": "fork",
+              "color": null,
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Product Owner",
+          "link": null,
+          "style": "fork",
+          "color": null,
+          "children": [
+            {
+              "text": "Понимание продукта",
+              "link": null,
+              "style": "fork",
+              "color": null,
+              "children": [
+                {
+                  "text": "Знание рынка",
+                  "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/product-owner/market-knowledge.md",
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                },
+                {
+                  "text": "Знание пользователей",
+                  "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/product-owner/user-knowledge.md",
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                },
+                {
+                  "text": "Знание продукта",
+                  "link": null,
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "Принятие продуктовых решений",
+              "link": null,
+              "style": "fork",
+              "color": null,
+              "children": [
+                {
+                  "text": "Продуктовая стратегия",
+                  "link": null,
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                },
+                {
+                  "text": "Целеполагание",
+                  "link": null,
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                },
+                {
+                  "text": "Управление роадмапом",
+                  "link": null,
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                },
+                {
+                  "text": "Управление продуктовым бэклогом",
+                  "link": null,
+                  "style": "fork",
+                  "color": null,
+                  "children": [
+                    {
+                      "text": "Генерация элементов бэклога",
+                      "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/product-owner/backlog-generation.md",
+                      "style": "fork",
+                      "color": null,
+                      "children": []
+                    },
+                    {
+                      "text": "Приоритизация бэклога",
+                      "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/product-owner/backlog-prioritization.md",
+                      "style": "fork",
+                      "color": null,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Управление продуктом",
+              "link": null,
+              "style": "fork",
+              "color": null,
+              "children": [
+                {
+                  "text": "Запуск продукта",
+                  "link": null,
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                },
+                {
+                  "text": "Ценообразование",
+                  "link": null,
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                },
+                {
+                  "text": "Жизненный цикл фичей",
+                  "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/product-owner/feature-lifecycle.md",
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "Integrator",
+          "link": null,
+          "style": "fork",
+          "color": null,
+          "children": [
+            {
+              "text": "Знание бизнеса",
+              "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/integrator/business-knowledge.md",
+              "style": "fork",
+              "color": null,
+              "children": []
+            },
+            {
+              "text": "Корпоративная культура",
+              "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/integrator/corporate-culture.md",
+              "style": "fork",
+              "color": null,
+              "children": []
+            },
+            {
+              "text": "Структура компании",
+              "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/integrator/company-structure.md",
+              "style": "fork",
+              "color": null,
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Technical Lead",
+          "link": null,
+          "style": "fork",
+          "color": null,
+          "children": [
+            {
+              "text": "Обеспечение качества продукта",
+              "link": null,
+              "style": "fork",
+              "color": null,
+              "children": [
+                {
+                  "text": "Code Review",
+                  "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/technical-lead/code-review.md",
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                },
+                {
+                  "text": "Тестирование",
+                  "link": null,
+                  "style": "fork",
+                  "color": null,
+                  "children": [
+                    {
+                      "text": "Тестовая модель",
+                      "link": null,
+                      "style": "fork",
+                      "color": null,
+                      "children": []
+                    },
+                    {
+                      "text": "Тест-планы",
+                      "link": null,
+                      "style": "fork",
+                      "color": null,
+                      "children": []
+                    },
+                    {
+                      "text": "Пирамида тестирования",
+                      "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/technical-lead/test-pyramid.md",
+                      "style": "fork",
+                      "color": null,
+                      "children": []
+                    },
+                    {
+                      "text": "Оптимизация количества тестирования",
+                      "link": null,
+                      "style": "fork",
+                      "color": null,
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "text": "Работа с багами",
+                  "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/technical-lead/bugs.md",
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                },
+                {
+                  "text": "Управление инцидентами",
+                  "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/technical-lead/incident-management.md",
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                },
+                {
+                  "text": "Метрики и мониторинг",
+                  "link": null,
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                },
+                {
+                  "text": "Нефункциональные требования",
+                  "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/technical-lead/nfr.md",
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "Обеспечение технического качества",
+              "link": null,
+              "style": "fork",
+              "color": null,
+              "children": [
+                {
+                  "text": "Unit-тестирование",
+                  "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/technical-lead/unit-testing.md",
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                },
+                {
+                  "text": "Чистый код",
+                  "link": null,
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                },
+                {
+                  "text": "Рефакторинг",
+                  "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/technical-lead/refactoring.md",
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                },
+                {
+                  "text": "Управление техническим долгом",
+                  "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/technical-lead/technical-debt.md",
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "Знание технологий",
+              "link": null,
+              "style": "fork",
+              "color": null,
+              "children": [
+                {
+                  "text": "Написание кода",
+                  "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/technical-lead/code.md",
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                },
+                {
+                  "text": "Знание технологического стека команды",
+                  "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/technical-lead/stack-knowledge.md",
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                },
+                {
+                  "text": "Выбор технологий и контроль их стека",
+                  "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/technical-lead/stack-choice.md",
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "Автоматизация цикла разработки",
+              "link": null,
+              "style": "fork",
+              "color": null,
+              "children": [
+                {
+                  "text": "Работа с VCS",
+                  "link": null,
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                },
+                {
+                  "text": "CI",
+                  "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/technical-lead/ci.md",
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                },
+                {
+                  "text": "Автоматизация релизов",
+                  "link": null,
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "Управление знаниями",
+              "link": null,
+              "style": "fork",
+              "color": null,
+              "children": [
+                {
+                  "text": "Распространение знаний",
+                  "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/technical-lead/knowledge-management.md",
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                },
+                {
+                  "text": "Техническая документация",
+                  "link": null,
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "Архитектура",
+              "link": null,
+              "style": "fork",
+              "color": null,
+              "children": [
+                {
+                  "text": "Сбор технических требований",
+                  "link": null,
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                },
+                {
+                  "text": "Проектирование",
+                  "link": null,
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                },
+                {
+                  "text": "Архитектурные ревью",
+                  "link": null,
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                },
+                {
+                  "text": "Эволюция",
+                  "link": null,
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "Capacity Management",
+              "link": null,
+              "style": "fork",
+              "color": null,
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Administrator",
+          "link": null,
+          "style": "fork",
+          "color": null,
+          "children": [
+            {
+              "text": "Построение цикла разработки",
+              "link": null,
+              "style": "fork",
+              "color": null,
+              "children": [
+                {
+                  "text": "Получение задач",
+                  "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/administrator/task-inbox.md",
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                },
+                {
+                  "text": "Разработка",
+                  "link": null,
+                  "style": "fork",
+                  "color": null,
+                  "children": [
+                    {
+                      "text": "Конструирование методологии",
+                      "link": null,
+                      "style": "fork",
+                      "color": null,
+                      "children": []
+                    },
+                    {
+                      "text": "Готовые подходы",
+                      "link": null,
+                      "style": "fork",
+                      "color": null,
+                      "children": [
+                        {
+                          "text": "Scrum",
+                          "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/administrator/scrum.md",
+                          "style": "fork",
+                          "color": null,
+                          "children": []
+                        },
+                        {
+                          "text": "Lean",
+                          "link": null,
+                          "style": "fork",
+                          "color": null,
+                          "children": []
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "text": "Выпуск задач",
+                  "link": null,
+                  "style": "fork",
+                  "color": null,
+                  "children": [
+                    {
+                      "text": "Приёмка",
+                      "link": null,
+                      "style": "fork",
+                      "color": null,
+                      "children": []
+                    },
+                    {
+                      "text": "Раскатка",
+                      "link": null,
+                      "style": "fork",
+                      "color": null,
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "text": "Проектное управление",
+              "link": null,
+              "style": "fork",
+              "color": null,
+              "children": [
+                {
+                  "text": "PMBoK",
+                  "link": null,
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                },
+                {
+                  "text": "PDCA",
+                  "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/administrator/pdca.md",
+                  "style": "fork",
+                  "color": null,
+                  "children": []
+                }
+              ]
+            },
+            {
+              "text": "Стейкхолдинг",
+              "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/administrator/stakeholding.md",
+              "style": "fork",
+              "color": null,
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "Personal Skills",
+      "link": null,
+      "style": "bubble",
+      "color": null,
+      "children": [
+        {
+          "text": "Развитие себя",
+          "link": null,
+          "style": "fork",
+          "color": null,
+          "children": [
+            {
+              "text": "Умение учиться",
+              "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/self-improvement/learning.md",
+              "style": "fork",
+              "color": null,
+              "children": []
+            },
+            {
+              "text": "Рефлексия",
+              "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/self-improvement/reflection.md",
+              "style": "fork",
+              "color": null,
+              "children": []
+            },
+            {
+              "text": "Работа с привычками",
+              "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/self-improvement/habits.md",
+              "style": "fork",
+              "color": null,
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Отношения",
+          "link": null,
+          "style": "fork",
+          "color": null,
+          "children": [
+            {
+              "text": "Эмпатия",
+              "link": null,
+              "style": "fork",
+              "color": null,
+              "children": []
+            },
+            {
+              "text": "Эмоциональный интеллект",
+              "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/self-improvement/emotional-intelligence.md",
+              "style": "fork",
+              "color": null,
+              "children": []
+            },
+            {
+              "text": "Понимание ценности различий",
+              "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/self-improvement/diversity.md",
+              "style": "fork",
+              "color": null,
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Мышление",
+          "link": null,
+          "style": "fork",
+          "color": null,
+          "children": [
+            {
+              "text": "Системное мышление",
+              "link": null,
+              "style": "fork",
+              "color": null,
+              "children": []
+            },
+            {
+              "text": "Стратегическое видение",
+              "link": null,
+              "style": "fork",
+              "color": null,
+              "children": []
+            },
+            {
+              "text": "Принятие решений",
+              "link": null,
+              "style": "fork",
+              "color": null,
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Стили управления",
+          "link": null,
+          "style": "fork",
+          "color": null,
+          "children": []
+        },
+        {
+          "text": "Коммуникации",
+          "link": null,
+          "style": "fork",
+          "color": null,
+          "children": [
+            {
+              "text": "Фасилитация",
+              "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/self-improvement/facilitation.md",
+              "style": "fork",
+              "color": null,
+              "children": []
+            },
+            {
+              "text": "Сотрудничество",
+              "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/self-improvement/cooperation.md",
+              "style": "fork",
+              "color": null,
+              "children": []
+            },
+            {
+              "text": "Управление конфликтами",
+              "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/self-improvement/conflicts.md",
+              "style": "fork",
+              "color": null,
+              "children": []
+            },
+            {
+              "text": "Дача и получение обратной связи",
+              "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/self-improvement/feedback.md",
+              "style": "fork",
+              "color": null,
+              "children": []
+            },
+            {
+              "text": "Нетворкинг",
+              "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/self-improvement/networking.md",
+              "style": "fork",
+              "color": null,
+              "children": []
+            },
+            {
+              "text": "Публичные выступления",
+              "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/self-improvement/public-speaking.md",
+              "style": "fork",
+              "color": null,
+              "children": []
+            },
+            {
+              "text": "Работа с текстом",
+              "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/self-improvement/text.md",
+              "style": "fork",
+              "color": null,
+              "children": []
+            }
+          ]
+        },
+        {
+          "text": "Тайм-менеджмент",
+          "link": null,
+          "style": "fork",
+          "color": null,
+          "children": [
+            {
+              "text": "Постановка личных целей",
+              "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/self-improvement/goal-setting.md",
+              "style": "fork",
+              "color": null,
+              "children": []
+            },
+            {
+              "text": "Управление временем",
+              "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/self-improvement/time-management.md",
+              "style": "fork",
+              "color": null,
+              "children": []
+            },
+            {
+              "text": "Управление приоритетами",
+              "link": "https://github.com/tlbootcamp/tlroadmap/blob/master/skills/self-improvement/prioritization.md",
+              "style": "fork",
+              "color": null,
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
