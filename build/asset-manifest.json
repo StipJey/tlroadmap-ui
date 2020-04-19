@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tlroadmap-ui/static/css/main.4ec0e698.chunk.css",
+    "main.js": "/tlroadmap-ui/static/js/main.cbbc4de6.chunk.js",
+    "main.js.map": "/tlroadmap-ui/static/js/main.cbbc4de6.chunk.js.map",
+    "runtime~main.js": "/tlroadmap-ui/static/js/runtime~main.ce638a69.js",
+    "runtime~main.js.map": "/tlroadmap-ui/static/js/runtime~main.ce638a69.js.map",
+    "static/js/2.1eb89927.chunk.js": "/tlroadmap-ui/static/js/2.1eb89927.chunk.js",
+    "static/js/2.1eb89927.chunk.js.map": "/tlroadmap-ui/static/js/2.1eb89927.chunk.js.map",
+    "index.html": "/tlroadmap-ui/index.html",
+    "precache-manifest.5a3fb602b5598c4d8d1ed9ea859fc5b4.js": "/tlroadmap-ui/precache-manifest.5a3fb602b5598c4d8d1ed9ea859fc5b4.js",
+    "service-worker.js": "/tlroadmap-ui/service-worker.js",
+    "static/css/main.4ec0e698.chunk.css.map": "/tlroadmap-ui/static/css/main.4ec0e698.chunk.css.map"
+  }
+}
